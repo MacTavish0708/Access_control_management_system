@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="9.3.1 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=MASTER_ZAMOK.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\MASTER_ZAMOK -TC:\CooCox\CoIDE\configuration\ProgramData\MASTER_ZAMOK/arm-gcc-link.ld -g">
+      <target file="MASTER_ZAMOK.elf" lastModified="178dcbd85ff">
+         <source file="..\obj\system_stm32f10x.o" lastModified="178d6d2ae3f"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="178d6d2ae95"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="178d6d2af2b"/>
+         <source file="..\obj\main.o" lastModified="178dcbd8391"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="178d6d2b03a"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="178d6d2b0c1"/>
+      </target>
+   </processor>
+</history>
